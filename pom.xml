@@ -37,6 +37,7 @@
         <module>spring-boot-admin-server-ui-login</module>
         <module>spring-boot-admin-samples</module>
         <module>spring-boot-admin-starter-client</module>
+        <module>spring-boot-admin-starter-server</module>
         <module>spring-boot-admin-docs</module>
     </modules>
     <organization>
